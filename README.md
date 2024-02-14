@@ -5,4 +5,4 @@ This repository features a set of mock tests provided by nxtwave (an edtech comp
 | -------------- | ---------------------------| --------------------------------------------------- |
 | 001            | Editable Text               | [Link](http://bvreactjs47.ccbp.tech)               |
 | 002            | TMultilingual Greetings           | [Link](http://bvreactjs48.ccbp.tech)                |
-| 003            | Fruit Counter               | [Link](http://bvreactjs49.ccbp.tech)                |
+| 003            | Music Playlist              | [Link](http://bvreactjs49.ccbp.tech)                |
