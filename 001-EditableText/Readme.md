@@ -1,6 +1,6 @@
 # Simple Text Editor
 
-## concepts used : Conditional Rendering
+## Concept used : Conditional Rendering
 
 ## Initial State
 
