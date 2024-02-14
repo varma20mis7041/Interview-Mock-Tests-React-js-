@@ -1,0 +1,56 @@
+.greetings_bg_container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.greetings_card_container {
+  height: 75vh;
+  width: 60vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+@media screen and (max-width: 768px) {
+  .greetings_card_container {
+    width: 90vw;
+    height: 60vh;
+  }
+}
+.greetings_main_heading {
+  font-size: 44px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #1e293b;
+}
+@media screen and (max-width: 768px) {
+  .greetings_main_heading {
+    font-size: 30px;
+    text-align: center;
+  }
+}
+.language_buttons_ul_list {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  justify-content: space-around;
+  width: 30vw;
+  align-items: center;
+}
+@media screen and (max-width: 768px) {
+  .language_buttons_ul_list {
+    width: 80vw;
+  }
+}
+.greeting_img_element {
+  height: 40vh;
+  width: 20vw;
+}
+@media screen and (max-width: 768px) {
+  .greeting_img_element {
+    margin-top: 10px;
+    width: 60vw;
+  }
+}
