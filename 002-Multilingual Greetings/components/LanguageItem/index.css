@@ -1,0 +1,21 @@
+.language_button {
+  height: 30px;
+  width: 100px;
+  background-color: transparent;
+  border-color: #db1c48;
+  border-radius: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #db1c48;
+  cursor: pointer;
+  outline: none;
+}
+@media screen and (max-width: 768px) {
+  .language_button {
+    width: 80px;
+  }
+}
+.active_button {
+  background-color: #db1c48;
+  color: #ffffff;
+}
