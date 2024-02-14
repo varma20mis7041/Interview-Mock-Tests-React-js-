@@ -1,0 +1,57 @@
+.edit_text_bg_container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5d0fe;
+}
+.edit_text_card_container {
+  height: 30vh;
+  width: 60vh;
+  background-color: #ffffff;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input_and_button_container {
+  display: flex;
+}
+.main_heading {
+  font-size: 33px;
+  font-family: 'Roboto';
+  color: #000000;
+  margin-bottom: 16px;
+}
+.input_element {
+  height: 30px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: #323f4b;
+  padding: 7px;
+}
+.input_and_text_container {
+  height: 60px;
+  max-width: 300px;
+  overflow-y: auto;
+}
+
+.button {
+  height: 30px;
+  width: 60px;
+  background-color: #d946ef;
+  border-width: 0px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 15px;
+  color: #ffffff;
+  cursor: pointer;
+  margin-left: 10px;
+}
+.text_msg {
+  margin: 0px;
+  font-size: 18px;
+  font-family: Roboto;
+  color: #323f4b;
+}
