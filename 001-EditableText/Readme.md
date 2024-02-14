@@ -1,5 +1,7 @@
 # Simple Text Editor
 
+## concepts used : Conditional Rendering
+
 ## Initial State
 
 - Initially, the user should see the input element and the "Save" button.
