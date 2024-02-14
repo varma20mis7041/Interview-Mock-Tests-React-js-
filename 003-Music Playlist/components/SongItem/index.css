@@ -1,0 +1,71 @@
+.song_item_card {
+  display: flex;
+  justify-content: space-between;
+  height: 20vh;
+  margin-bottom: 25px;
+}
+@media screen and (max-width: 768px) {
+  .song_item_card {
+    height: 10vh;
+  }
+}
+.song_item_card_left_part {
+  display: flex;
+  color: #ffffff;
+}
+
+.img_element {
+  height: 100%;
+  margin-right: 30px;
+}
+@media screen and (max-width: 768px) {
+  .img_element {
+    margin-right: 15px;
+  }
+}
+.song_item_card_right_part {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+.song_name {
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: 500;
+}
+.song_genre {
+  font-size: 22px;
+  font-weight: 500;
+  color: #3b82f6;
+}
+.duration {
+  font-size: 22px;
+  font-weight: 500;
+  margin-right: 30px;
+}
+.delete_button {
+  background-color: transparent;
+  padding: 0px;
+  border-width: 0px;
+  cursor: pointer;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+@media screen and (max-width: 768px) {
+  .song_name {
+    font-size: 15px;
+  }
+  .song_genre {
+    font-size: 13px;
+  }
+  .duration {
+    font-size: 13px;
+    margin-right: 10px;
+  }
+  .delete_button {
+    height: 15px;
+    width: 15px;
+  }
+}
