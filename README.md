@@ -7,4 +7,5 @@ This repository features a set of mock tests provided by nxtwave (an edtech comp
 | 002            | Multilingual Greetings           | [Link](http://bvreactjs48.ccbp.tech)                |
 | 003            | Music Playlist              | [Link](http://bvreactjs49.ccbp.tech)                |
 | 004            | Character Counter             | [Link](http://bvreactjs50.ccbp.tech)                |
+| 005            | Visit Countries            | [Link](http://bvreactjs51.ccbp.tech)                |
 
