@@ -8,4 +8,6 @@ This repository features a set of mock tests provided by nxtwave (an edtech comp
 | 003            | Music Playlist              | [Link](http://bvreactjs49.ccbp.tech)                |
 | 004            | Character Counter             | [Link](http://bvreactjs50.ccbp.tech)                |
 | 005            | Visit Countries            | [Link](http://bvreactjs51.ccbp.tech)                |
+| 006            | My Tasks            | [Link](http://bvreactjs52.ccbp.tech)                |
+
 
