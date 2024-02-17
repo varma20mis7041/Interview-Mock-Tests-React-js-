@@ -1,0 +1,45 @@
+.list_item_container {
+  height: 80px;
+  width: 90%;
+  background-color: #1a171d;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 25px;
+  border-radius: 5px;
+  padding: 15px 30px;
+}
+.task_name {
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #f8fafc;
+}
+.task_category {
+  height: 40px;
+  padding: 10px 20px;
+  border: none;
+  background-color: #f3aa4e;
+  border-radius: 10px;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #1a171d;
+}
+
+@media screen and (max-width: 768px) {
+  .list_item_container {
+    height: 50px;
+    padding: 7px 12px;
+    margin-bottom: 15px;
+  }
+  .task_name {
+    font-size: 16px;
+  }
+  .task_category {
+    height: 30px;
+    padding: 5px 10px;
+    border-radius: 7px;
+    font-size: 15px;
+  }
+}
