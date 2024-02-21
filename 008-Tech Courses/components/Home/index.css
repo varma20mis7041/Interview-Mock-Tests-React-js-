@@ -1,0 +1,33 @@
+.tech_ara_bg_container {
+  min-height: 100vh;
+}
+
+.tech_ara_courses_container {
+  height: 90vh;
+  padding: 50px;
+}
+.main_heading {
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: 700;
+  color: #1e293b;
+}
+
+.course_items_ul_container {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .tech_ara_courses_container {
+    min-height: 92vh;
+    padding: 20px;
+  }
+  .main_heading {
+    font-size: 30px;
+    font-weight: 600;
+  }
+}
