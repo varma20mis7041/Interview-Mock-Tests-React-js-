@@ -1,0 +1,14 @@
+.loader_bg_container {
+  height: 100vh;
+  background-color: #ffffff;
+}
+.loading_page_header {
+  height: 10vh;
+  background-color: #f1f5f9;
+}
+.loading_container {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
