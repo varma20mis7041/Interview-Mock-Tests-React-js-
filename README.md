@@ -10,5 +10,6 @@ This repository features a set of mock tests provided by nxtwave (an edtech comp
 | 005            | Visit Countries            | [Link](http://bvreactjs51.ccbp.tech)                |
 | 006            | My Tasks            | [Link](http://bvreactjs52.ccbp.tech)                |
 | 007            | Travel Guide            | [Link](http://bvreactjs53.ccbp.tech)                |
+| 007            | Tech Courses            | [Link](http://bvreactjs54.ccbp.tech)                |
 
 
