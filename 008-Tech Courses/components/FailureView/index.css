@@ -1,0 +1,43 @@
+.failure_view_bg_container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure_page_main_heading {
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  text-align: center;
+}
+.failure_page_description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+  margin-top: 0px;
+  text-align: center;
+}
+.retry_button {
+  height: 35px;
+  width: 90px;
+  border: none;
+  border-radius: 3px;
+  background-color: #4656a1;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+  .failure_page_main_heading {
+    font-size: 30px;
+  }
+  .failure_view_img {
+    height: 50vh;
+    width: 80vw;
+  }
+}
