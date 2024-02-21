@@ -1,6 +1,6 @@
 # Tech Courses App
 ## Concepts Used: Fetching and Routing
-[Link](http://bvreactjs54.ccbp.tech)
+[web page link](http://bvreactjs54.ccbp.tech)
 
 
 ## Initial State
