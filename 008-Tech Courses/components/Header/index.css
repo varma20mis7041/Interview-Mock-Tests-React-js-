@@ -1,0 +1,20 @@
+.nav_container {
+  height: 10vh;
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  background-color: #f1f5f9;
+}
+.website_logo {
+  height: 50px;
+  width: 150px;
+}
+@media screen and (max-width: 768px) {
+  .website_logo {
+    height: 35px;
+    width: 100px;
+  }
+  .nav_container {
+    height: 8vh;
+  }
+}
