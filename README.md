@@ -11,5 +11,6 @@ This repository features a set of mock tests provided by nxtwave (an edtech comp
 | 006            | My Tasks            | [Link](http://bvreactjs52.ccbp.tech)                |
 | 007            | Travel Guide            | [Link](http://bvreactjs53.ccbp.tech)                |
 | 008            | Tech Courses            | [Link](http://bvreactjs54.ccbp.tech)                |
+| 009            | EBank Authentication            | [Link](http://bvreactjs55.ccbp.tech)                |
 
 
