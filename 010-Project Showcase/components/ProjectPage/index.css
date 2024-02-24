@@ -68,6 +68,11 @@
   height: 30vh;
   width: 30vw;
 }
+@media screen and (max-width: 768px) {
+  .failure_view_img {
+    width: 70vw;
+  }
+}
 .failure_main_heading {
   font-size: 35px;
   font-family: 'Roboto';
