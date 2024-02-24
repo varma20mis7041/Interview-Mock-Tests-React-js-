@@ -1,0 +1,92 @@
+.projects_page_bg_container {
+  min-height: 100vh;
+}
+.nav_bar_container {
+  height: 10vh;
+  padding: 10px 30px;
+  background-color: #f1f5f9;
+}
+
+.logo_image_element {
+  height: 60px;
+  width: 180px;
+}
+.projects_container {
+  padding: 50px 90px;
+}
+@media screen and (max-width: 768px) {
+  .nav_bar_container {
+    height: 7vh;
+  }
+  .logo_image_element {
+    height: 40px;
+    width: 120px;
+  }
+  .projects_container {
+    padding: 15px;
+  }
+}
+.select_element {
+  height: 40px;
+  width: 320px;
+  padding: 5px;
+  border-color: #cbd5e1;
+  background-color: transparent;
+  color: #475569;
+  outline: none;
+  font-size: 16px;
+  margin-bottom: 80px;
+}
+@media screen and (max-width: 768px) {
+  .select_element {
+    margin-bottom: 50px;
+  }
+}
+.fetched_projects_ul_list_container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.loading_container {
+  height: 80vh;
+  width: 99vw;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 150px;
+}
+.failure_view_bg_container {
+  height: 65vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure_view_img {
+  margin-bottom: 20px;
+  height: 30vh;
+  width: 30vw;
+}
+.failure_main_heading {
+  font-size: 35px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #475569;
+  text-align: center;
+}
+.failure_description {
+  font-size: 16px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+.retry_button {
+  height: 35px;
+  width: 100px;
+  border: none;
+  background-color: #328af2;
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 5px;
+}
