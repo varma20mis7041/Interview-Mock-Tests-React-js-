@@ -1,0 +1,10 @@
+.nav_container {
+  height: 8vh;
+  display: flex;
+  align-items: center;
+  padding: 15px;
+}
+.logo_element {
+  height: 45px;
+  width: 150px;
+}
