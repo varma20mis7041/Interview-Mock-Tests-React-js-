@@ -1,0 +1,94 @@
+.home_route_bg_container {
+  height: 93vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home_page_meetup_card_container {
+  height: 85vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.home_welcome_heading {
+  font-size: 36px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #334155;
+  text-align: center;
+}
+
+.home_welcome_description {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #475569;
+  text-align: center;
+}
+.register_button {
+  height: 36px;
+  width: 120px;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #3b82f6;
+  border: none;
+  border-radius: 5px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.home_page_meet_up_img_element {
+  height: 50vh;
+  width: 50vw;
+}
+
+@media screen and (max-width: 768px) {
+  .home_page_meetup_card_container {
+    width: 85vw;
+  }
+  .home_welcome_heading {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  .home_welcome_description {
+    font-size: 18px;
+  }
+  .register_button {
+    font-size: 14px;
+    height: 30px;
+    width: 100px;
+  }
+  .home_page_meet_up_img_element {
+    margin-top: 30px;
+    height: 30vh;
+    width: 80vw;
+  }
+}
+
+.meetup_host_name {
+  font-size: 50px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  color: #2563eb;
+}
+.meetup_topic {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #475569;
+  text-align: center;
+}
+@media screen and (max-width: 768px) {
+  .meetup_host_name {
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+  .meetup_topic {
+    margin-bottom: 5px;
+    font-size: 22px;
+  }
+}
