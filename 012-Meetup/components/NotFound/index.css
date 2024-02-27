@@ -1,0 +1,33 @@
+.not_found_bg_container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.not_found_main_heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #334155;
+  text-align: center;
+}
+.not_found_description {
+  font-size: 22px;
+  font-family: 'Roboto';
+  color: #475569;
+  text-align: center;
+}
+.not_found_img {
+  height: 60vh;
+  width: 30vw;
+}
+@media screen and (max-width: 768px) {
+  .not_found_img {
+    width: 80vw;
+    height: 40vh;
+  }
+  .not_found_description {
+    font-size: 15px;
+  }
+}
