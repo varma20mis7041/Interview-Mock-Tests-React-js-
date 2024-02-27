@@ -1,7 +1,7 @@
 # Meet up 
 
 ## Concepts Used : React Context 
-[website link](https://bvreactjs58.ccbp.tect)
+[website link](https://bvreactjs58.ccbp.tech)
 
 ## Home Route
 
